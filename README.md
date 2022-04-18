@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Maribel Garcia!
+### Hi there 👋, I'm Maribel Garcia!
 
 <!--
 **Mbravo36/Mbravo36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
