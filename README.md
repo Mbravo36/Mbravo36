@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on a Recipes App
+- 🤔 I’m looking for help with different Javscript Libraries
+- 📫 How to reach me: garcia.maribel.tx92@gmail.com
+- ⚡ Fun fact: We never stop learning
