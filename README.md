@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Maribel Garcia!
-  I've always had a fascination for technology, I still remember when my mother bought my siblings and I our first computer. I remember not even knowing how to turn it on, but once I figured it out I started opening every folder and clicking on everything. It took me a couple of days but I managed to click on anything that was clickable and put it all together, then when a family member managed to mess something up on it I was the first they called, and I was able to fix it in no time. Fast forward... Hello, my name is Maribel Garcia and I'm a Full Stack Web Developer, nice to meet you!
+  I've always had a fascination with technology. I still remember when my mother bought my siblings and I our first computer. I remember not even knowing how to turn it on, but once I figured it out I started opening every folder and clicking on everything. It took me a couple of days but I managed to click on anything that was clickable and put it all together. Then, when a family member managed to mess something up on it, I was the first they called, and I was able to fix it in no time. Fast forward... Hello, my name is Maribel Garcia and I'm a Full Stack Web Developer, nice to meet you!
 <!--
 **Mbravo36/Mbravo36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
